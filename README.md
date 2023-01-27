@@ -1,4 +1,6 @@
 # 此Fork colab自用
+### 中文vits笔记本
+[一键colab](https://colab.research.google.com/github/zwzheng45/vits/blob/main/vits%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E7%AC%94%E8%AE%B0%E6%9C%AC.ipynb)
 
 # How to use
 (Suggestion) Python == 3.7
